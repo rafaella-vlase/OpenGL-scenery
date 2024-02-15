@@ -1,0 +1,895 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Base.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Base_BaseColor.png
+map_Ns Gate Final_Base_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Base_NormalOpenGL.png
+
+newmtl Body.002
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Bonsai.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.102954 0.102954 0.102954
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bonsai_Base_Color.jpg
+map_Ns Bonsai_Roughness.png
+
+newmtl Bonsai.007
+Ka 1.000000 1.000000 1.000000
+Ks 0.102954 0.102954 0.102954
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bonsai_Base_Color.jpg
+map_Ns Bonsai_Roughness.png
+
+newmtl Bonsai.008
+Ka 1.000000 1.000000 1.000000
+Ks 0.102954 0.102954 0.102954
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bonsai_Base_Color.jpg
+map_Ns Bonsai_Roughness.png
+
+newmtl Default_Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Default_Material_baseColor.jpeg
+map_Bump -bm 1.000000 Default_Material_normal.png
+
+newmtl Default_Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Default_Material_baseColor.jpeg
+map_Bump -bm 1.000000 Default_Material_normal.png
+
+newmtl Design001.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Design001_BaseColor.png
+map_Ns Gate Final_Design001_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Design001_NormalOpenGL.png
+
+newmtl Design002.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Design002_BaseColor.png
+map_Ns Gate Final_Design002_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Design002_NormalOpenGL.png
+
+newmtl Door.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Door_baseColor.jpeg
+map_Bump -bm 1.000000 Door_normal.png
+
+newmtl Door.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Door_baseColor.jpeg
+map_Bump -bm 1.000000 Door_normal.png
+
+newmtl Ground.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Ground_baseColor.jpeg
+map_Bump -bm 1.000000 Ground_normal.png
+
+newmtl Ground.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Ground_baseColor.jpeg
+map_Bump -bm 1.000000 Ground_normal.png
+
+newmtl KenTourou.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl KenTourou.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KenTourou_Diffuse.jpg
+
+newmtl Large.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Large_BaseColor.png
+map_Ns Gate Final_Large_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Large_NormalOpenGL.png
+
+newmtl M_Concrete.002
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Tile_02_Concrete_BaseColor.png
+map_Bump -bm 1.000000 T_Tile_02_Concrete_Normal.png
+
+newmtl M_RoofTile.002
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Tile_01_AO.png
+map_Bump -bm 1.000000 T_Tile_01_Normal.png
+
+newmtl M_Trim_01.002
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Trim_01_BaseColor.png
+map_Bump -bm 1.000000 T_Trim_01_Normal.png
+
+newmtl M_Trim_02.002
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd T_Tile_02_Concrete_BaseColor.png
+map_Bump -bm 1.000000 T_Trim_02_Normal.png
+
+newmtl Material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FarbPalette256x256.png
+
+newmtl Material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FarbPalette256x256.png
+
+newmtl Material.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FarbPalette256x256.png
+
+newmtl Material.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FarbPalette256x256.png
+
+newmtl Material.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stone.png
+
+newmtl Material.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grass.png
+
+newmtl Material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stone2.png
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd water.png
+
+newmtl Material_#14.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wood_texturev3.5.tga
+
+newmtl Material_#15.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Stone_Brick_TextureV1 4.tga
+
+newmtl Material_#243.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd roof_tiles.tga
+
+newmtl Material_#409.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Watchtower_Assets_TMap.tga
+map_d Watchtower_Assets_TMap.tga
+
+newmtl Material_#94.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Plaster.tga
+
+newmtl Medium.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Medium_BaseColor.png
+map_Ns Gate Final_Medium_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Medium_NormalOpenGL.png
+
+newmtl Pillars.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Pillars_BaseColor.png
+map_Ns Gate Final_Pillars_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Pillars_NormalOpenGL.png
+
+newmtl Pillars.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Pillars_BaseColor.png
+map_Ns Gate Final_Pillars_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Pillars_NormalOpenGL.png
+
+newmtl Roof_Cylinders.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Roof_Cylinders_BaseColor.png
+map_Ns Gate Final_Roof_Cylinders_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Roof_Cylinders_NormalOpenGL.png
+
+newmtl Roof_Sheets.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Roof_Sheets_BaseColor.png
+map_Ns Gate Final_Roof_Sheets_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Roof_Sheets_NormalOpenGL.png
+
+newmtl Small.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Small_BaseColor.png
+map_Ns Gate Final_Small_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Small_NormalOpenGL.png
+
+newmtl Top_Cylinder.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Top_Cylinder_BaseColor.png
+map_Ns Gate Final_Top_Cylinder_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Top_Cylinder_NormalOpenGL.png
+
+newmtl Tree.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Tree_baseColor.jpeg
+map_Bump -bm 1.000000 Tree_normal.png
+
+newmtl Tree.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Tree_baseColor.jpeg
+map_Bump -bm 1.000000 Tree_normal.png
+
+newmtl Woods_Roof.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_Woods_Roof_BaseColor.png
+map_Ns Gate Final_Woods_Roof_Roughness.png
+map_Bump -bm 1.000000 Gate Final_Woods_Roof_NormalOpenGL.png
+
+newmtl blinn1.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd blinn1_baseColor.png
+map_d blinn1_baseColor.png
+map_Bump -bm 1.000000 blinn1_normal.png
+
+newmtl blinn1.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd blinn1_baseColor.png
+map_d blinn1_baseColor.png
+map_Bump -bm 1.000000 blinn1_normal.png
+
+newmtl blinn2.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd blinn2_baseColor.jpeg
+map_Bump -bm 1.000000 blinn2_normal.png
+
+newmtl blinn2.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd blinn2_baseColor.jpeg
+map_Bump -bm 1.000000 blinn2_normal.png
+
+newmtl branch_base_color.006
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd branch_normal.jpg
+
+newmtl branch_base_color.007
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd branch_normal.jpg
+
+newmtl branch_base_color.008
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd branch_normal.jpg
+
+newmtl fatau.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd fatau.png
+
+newmtl haina.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd haina.png
+
+newmtl house_mat.004
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd house_mat_Base_Color.png
+
+newmtl house_mat.005
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd house_mat_Base_Color.png
+
+newmtl initialShadingGroup.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Image_0.004.jpg
+
+newmtl initialShadingGroup.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Image_0.004.jpg
+
+newmtl initialShadingGroup.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Image_0.004.jpg
+
+newmtl initialShadingGroup.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Image_0.004.jpg
+
+newmtl lambert1.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd lambert1_albedo.jpeg
+
+newmtl lambert1.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd lambert1_albedo.jpeg
+
+newmtl lambert1.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd lambert1_albedo.jpeg
+
+newmtl lambert1.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd lambert1_albedo.jpeg
+
+newmtl lambert1.017
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.644330 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert1.018
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.644330 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl par.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd par.png
+
+newmtl pasted__standardSurface3.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd pasted__standardSurface3_baseColor.png
+map_d pasted__standardSurface3_baseColor.png
+map_Bump -bm 1.000000 pasted__standardSurface3_normal.png
+
+newmtl pasted__standardSurface3.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd pasted__standardSurface3_baseColor.png
+map_d pasted__standardSurface3_baseColor.png
+map_Bump -bm 1.000000 pasted__standardSurface3_normal.png
+
+newmtl rock.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stone_fence_old_low_rock_BaseColor.png
+
+newmtl rock.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stone_fence_old_low_rock_BaseColor.png
+
+newmtl roof.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Gate_Final_roof_BaseColor.png
+map_Ns Gate Final_roof_Roughness.png
+map_Bump -bm 1.000000 Gate Final_roof_NormalOpenGL.png
+
+newmtl rosuAprins.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl rosuAprins.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl rosuAprins.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl rosuAprins.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl rosuAprins.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl rosuAprins.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl rosuAprins.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rosuAprins.png
+
+newmtl standardSurface1.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd standardSurface1_baseColor.jpeg
+map_Bump -bm 1.000000 standardSurface1_normal.png
+
+newmtl standardSurface1.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd standardSurface1_baseColor.jpeg
+map_Bump -bm 1.000000 standardSurface1_normal.png
+
+newmtl 照れ.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd 表情.png
+map_d 表情.png
